@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cutt.ly/ktgVCvHn">
+  <a href="https://cutt.ly/rtOd1faR">
     <img src="https://img.shields.io/badge/Open_Cowabunga_Pro_Guide-10B981?style=for-the-badge&logo=cowabunga&logoColor=white"
          height="84"
          style="border-radius:42px; box-shadow:0 20px 60px rgba(16,185,129,0.6);">
